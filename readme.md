@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/and/main/.github/assets/thumbnail.png" alt="and" width="100%">
+</p>
+
 # [...]
 
 # Builds `ml-api` using `ml-api/Dockerfile`

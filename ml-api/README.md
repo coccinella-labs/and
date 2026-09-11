@@ -11,7 +11,7 @@ build, deploy, and scale machine learning with ease.
 ## get started  
 1. clone the repository:  
    ```bash  
-   git clone https://github.com/harpertoken/ml-api.git  
+   git clone https://github.com/coccinella-labs/and.git  
    ```
 
 2. navigate to the project:
